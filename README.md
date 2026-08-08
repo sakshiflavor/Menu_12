@@ -1,0 +1,88 @@
+
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>Chaat Puchka SahakarNagar Menu </title>
+
+<body style="background-color: gray;">
+   <div style="text-align: center;">
+  <a href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
+    <img src="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png" alt="Description" style="width: 300px;">
+  </a>
+</div>
+</body>
+<body>
+  
+  <h2 style="text-align: Center; color: white;">
+Roll
+    <br>
+    <h3>
+<p style="word-spacing: 220px; text-align: Center;">Veg_Roll  ₹80</p>
+  <p style="word-spacing: 135px; text-align: Center;">Veggie_Spicy_Roll    ₹85</p>
+      <p style="word-spacing: 177px; text-align: Center;">Paneer_Roll ₹110</p>   
+      <p style="word-spacing: 120px; text-align: Center;">Masala_Pasta_Roll ₹120</p>
+      <p style="word-spacing: 110px; text-align: Center;">Paneer_Bhurji_Roll ₹140</p>
+      <p style="word-spacing: 70px; text-align: Center;">SweetCorn_Masala_Roll ₹140</p>
+      <p style="word-spacing: 145px; text-align: Center;">Mushroom_Roll ₹150</p>
+      
+      <br>
+      <h2 style="text-align: Center; color: white;">
+    Tortilla Stuffed
+    <br>
+      </h2>
+      <h3>
+      
+      <p style="word-spacing: 110px; text-align: Center;">Tortilla_Veg_Stuffed ₹70</p>
+      <p style="word-spacing: 165px; text-align: Center;">Tortilla_Garlic ₹85</p>
+      <p style="word-spacing: 140px; text-align: Center;">Tortilla_Tandoori  ₹95</p>
+       <p style="word-spacing: 124px; text-align: Center;">Tortilla_Schezwan  ₹120</p>
+       <p style="word-spacing: 170px; text-align: Center;">Cheese_Mayo    ₹130</p>
+      <p style="word-spacing: 160px; text-align: Center;">Tortilla_Paneer   ₹85</p>
+      <p style="word-spacing: 185px; text-align: Center;">Cheese_Corn   ₹85</p>
+      <p style="word-spacing: 140px; text-align: Center;">Cheese_Mexican       ₹95</p>
+ 
+      
+    </h3>
+  <form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
+  <button type="submit">Tea&Coffee</button></form>
+    
+ <form action="https://sakshiflavor.github.io/Menu_2/" style="text-align: center;">
+  <button type="submit">Maggi</button></form>
+<form action="https://sakshiflavor.github.io/Menu_3/" style="text-align: center;">
+  <button type="submit">Burger</button></form>
+        
+<form action="https://sakshiflavor.github.io/Menu_4/" style="text-align: center;">
+  <button type="submit">Puchka</button></form>
+        
+   <form action="https://sakshiflavor.github.io/Menu_5/" style="text-align: center;">
+  <button type="submit">Pizza</button></form>
+            
+  <form action="https://sakshiflavor.github.io/Menu_6/" style="text-align: center;">
+  <button type="submit">Sandwich</button></form>
+              
+   <form action="https://sakshiflavor.github.io/Menu_7/" style="text-align: center;">
+  <button type="submit">Fries/Nuggets/PavGarden </button></form>
+         
+   <form action="https://sakshiflavor.github.io/Menu_8/" style="text-align: center;">
+  <button type="submit">Chaat</button></form>
+                 
+  <form action="https://sakshiflavor.github.io/Menu_9/" style="text-align: center;">
+  <button type="submit">Momo/Garlic Bread</button></form>
+
+  <form action="https://sakshiflavor.github.io/Menu_10/" style="text-align: center;">
+  <button type="submit">Makka_Mug/Nachos/C.P Special</button></form>
+    
+   <form action="https://sakshiflavor.github.io/Menu_11/" style="text-align: center;">
+  <button type="submit">Pasta</button>
+</form>
+    <form action="https://sakshiflavor.github.io/Menu_12/" style="text-align: center;">
+  <button type="submit">Roll/Tortilla</button></form>
+
+<form action="https://sakshiflavor.github.io/Menu_13/" style="text-align: center;">
+  <button type="submit">Lassi/Butter Milk</button></form>
+  
+  <form action="https://sakshiflavor.github.io/Menu_14/" style="text-align: center;">
+  <button type="submit">Mojito</button></form>
+    
+   <form action="https://sakshiflavor.github.io/Menu_15/" style="text-align: center;">
+  <button type="submit">Shakes/Cold_Coffee</button>
+</form>
