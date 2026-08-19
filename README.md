@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="styles/style.css"/>
   <title>Chaat Puchka SahakarNagar Menu </title>
 
-<body style="background-color: gray;">
+<body style="background-color: black;">
    <div style="text-align: center;">
   <a href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
     <img src="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png" alt="Description" style="width: 300px;">
@@ -16,13 +16,13 @@
 Roll
     <br>
     <h3>
-<p style="word-spacing: 220px; text-align: Center;">Veg_Roll  ₹80</p>
-  <p style="word-spacing: 135px; text-align: Center;">Veggie_Spicy_Roll    ₹85</p>
-      <p style="word-spacing: 177px; text-align: Center;">Paneer_Roll ₹110</p>   
-      <p style="word-spacing: 120px; text-align: Center;">Masala_Pasta_Roll ₹120</p>
-      <p style="word-spacing: 110px; text-align: Center;">Paneer_Bhurji_Roll ₹140</p>
-      <p style="word-spacing: 70px; text-align: Center;">SweetCorn_Masala_Roll ₹140</p>
-      <p style="word-spacing: 145px; text-align: Center;">Mushroom_Roll ₹150</p>
+<p style="word-spacing: 220px; text-align: Center; color: white;">Veg_Roll  ₹80</p>
+  <p style="word-spacing: 135px; text-align: Center; color: white;">Veggie_Spicy_Roll    ₹85</p>
+      <p style="word-spacing: 177px; text-align: Center; color: white;">Paneer_Roll ₹110</p>   
+      <p style="word-spacing: 120px; text-align: Center; color: white;">Masala_Pasta_Roll ₹120</p>
+      <p style="word-spacing: 110px; text-align: Center; color: white;">Paneer_Bhurji_Roll ₹140</p>
+      <p style="word-spacing: 70px; text-align: Center; color: white;">SweetCorn_Masala_Roll ₹140</p>
+      <p style="word-spacing: 145px; text-align: Center; color: white;;">Mushroom_Roll ₹150</p>
       
       <br>
       <h2 style="text-align: Center; color: white;">
@@ -31,14 +31,14 @@ Roll
       </h2>
       <h3>
       
-      <p style="word-spacing: 110px; text-align: Center;">Tortilla_Veg_Stuffed ₹70</p>
-      <p style="word-spacing: 165px; text-align: Center;">Tortilla_Garlic ₹85</p>
-      <p style="word-spacing: 140px; text-align: Center;">Tortilla_Tandoori  ₹95</p>
-       <p style="word-spacing: 124px; text-align: Center;">Tortilla_Schezwan  ₹120</p>
-       <p style="word-spacing: 170px; text-align: Center;">Cheese_Mayo    ₹130</p>
-      <p style="word-spacing: 160px; text-align: Center;">Tortilla_Paneer   ₹85</p>
-      <p style="word-spacing: 185px; text-align: Center;">Cheese_Corn   ₹85</p>
-      <p style="word-spacing: 140px; text-align: Center;">Cheese_Mexican       ₹95</p>
+  <p style="word-spacing: 110px; text-align: Center; color: white;">Tortilla_Veg_Stuffed ₹70</p>
+      <p style="word-spacing: 165px; text-align: Center; color: white;">Tortilla_Garlic ₹85</p>
+      <p style="word-spacing: 140px; text-align: Center; color: white;">Tortilla_Tandoori  ₹95</p>
+       <p style="word-spacing: 124px; text-align: Center; color: white;">Tortilla_Schezwan  ₹120</p>
+       <p style="word-spacing: 170px; text-align: Center; color: white;">Cheese_Mayo    ₹130</p>
+      <p style="word-spacing: 160px; text-align: Center; color: white;">Tortilla_Paneer   ₹85</p>
+      <p style="word-spacing: 185px; text-align: Center; color: white;">Cheese_Corn   ₹85</p>
+      <p style="word-spacing: 140px; text-align: Center; color: white;">Cheese_Mexican       ₹95</p>
  
       
  </h3>
